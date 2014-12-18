@@ -1,0 +1,14 @@
+PODS:
+  - AMBTableViewController (1.0.0)
+
+DEPENDENCIES:
+  - AMBTableViewController (from `../`)
+
+EXTERNAL SOURCES:
+  AMBTableViewController:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AMBTableViewController: 4d82d1236dbe445ebafcc0908838c13023dd99f4
+
+COCOAPODS: 0.33.1

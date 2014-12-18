@@ -1,0 +1,9 @@
+
+platform :ios, '5.0'
+
+# For regular projects
+#pod 'AMBTableViewController'
+
+# For development
+pod 'AMBTableViewController', :path => '../'
+
